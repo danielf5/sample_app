@@ -1,6 +1,6 @@
 SampleApp::Application.routes.draw do
   get "estatic_pages/home"
-
+  get "estatic_pages/about"
   get "estatic_pages/help"
 
   # The priority is based upon order of creation:
